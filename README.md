@@ -10,10 +10,12 @@ Hangman Game using tkinter (Python)
   <img src="https://i.postimg.cc/Hs7nkvkB/hang2.png" width="1000" alt="Hangman" height="500"/>
 </div>
 
-## To Clone
-### git clone https://github.com/LegendXtion/Hangman.git
-
-## To Run
-### python gui.py
+## To Install
+```
+git clone https://github.com/LegendXtion/Hangman.git
+```
+```
+python gui.py
+```
 
 ## [ To add more words to Wordlist, open words.py and enter your word ]
